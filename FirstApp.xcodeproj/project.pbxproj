@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65907BF42A70AF1B00A8DEFB /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65907BF32A70AF1B00A8DEFB /* ImageBootcamp.swift */; };
 		65DC8E732A6F853700A7D9CA /* FirstAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DC8E722A6F853700A7D9CA /* FirstAppApp.swift */; };
 		65DC8E752A6F853700A7D9CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DC8E742A6F853700A7D9CA /* ContentView.swift */; };
 		65DC8E772A6F853800A7D9CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65DC8E762A6F853800A7D9CA /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65907BF32A70AF1B00A8DEFB /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		65DC8E6F2A6F853700A7D9CA /* FirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65DC8E722A6F853700A7D9CA /* FirstAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAppApp.swift; sourceTree = "<group>"; };
 		65DC8E742A6F853700A7D9CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				65DC8E742A6F853700A7D9CA /* ContentView.swift */,
 				65DC8E822A6F896F00A7D9CA /* TextBootcamp.swift */,
 				65DC8E842A6F9E5700A7D9CA /* ShapesBootcamp.swift */,
+				65907BF32A70AF1B00A8DEFB /* ImageBootcamp.swift */,
 				65DC8E762A6F853800A7D9CA /* Assets.xcassets */,
 				65DC8E782A6F853800A7D9CA /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65907BF42A70AF1B00A8DEFB /* ImageBootcamp.swift in Sources */,
 				65DC8E852A6F9E5700A7D9CA /* ShapesBootcamp.swift in Sources */,
 				65DC8E752A6F853700A7D9CA /* ContentView.swift in Sources */,
 				65DC8E832A6F896F00A7D9CA /* TextBootcamp.swift in Sources */,

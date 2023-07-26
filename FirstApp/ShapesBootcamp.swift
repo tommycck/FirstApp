@@ -10,7 +10,8 @@ import SwiftUI
 
 struct ShapesBootcamp: View {
     var body: some View {
-        Circle()
+        VStack{
+            Circle()
 //            .fill(Color.blue)
 //            .foregroundColor(.pink)
 //            .stroke(Color.blue, lineWidth: 5)
@@ -50,6 +51,7 @@ struct ShapesBootcamp: View {
 //                center: .center,
 //                angle: .degrees(180 + 45)))
             .frame(width: 300, height: 200)
+    }
     }
 }
 
